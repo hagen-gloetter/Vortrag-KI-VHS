@@ -1,0 +1,13 @@
+Stilzusatz – an JEDEN Bildprompt anhängen:
+
+flat vector comic illustration, bold outlines, vibrant saturated colors, clean white background, friendly modern style, no text in image, professional presentation quality, 16:9 aspect ratio
+
+Empfohlene Tools:
+  • Copilot Designer (Microsoft)
+  • DALL·E in ChatGPT
+  • Adobe Firefly
+  • Midjourney
+
+Nach Bildgenerierung:
+  Bild in PowerPoint einfügen: Bildplatzhalter auf Folie anklicken → Bild einfügen
+  Zieldateiname: NN_Folientitel.png (NN = Foliennummer)

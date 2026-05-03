@@ -1,0 +1,5 @@
+An abstract visualization of an attention mechanism in a neural network, colorful connecting lines between words in a sentence showing varying strengths of connection, elegant and modern, no text, dark blue background with glowing elements
+
+---
+Stilzusatz (immer anhängen):
+flat vector comic illustration, bold outlines, vibrant saturated colors, clean white background, friendly modern style, no text in image, professional presentation quality, 16:9 aspect ratio
